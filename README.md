@@ -4,4 +4,7 @@ Deliverable
 Il repository contiene tutti e 4 i deliverable previsti dalle Scadenze
 
 D2: il secondo deliverable ha ogni cambiamento e/o modifica di colore blu 
-NOTA BENE-> D3: il secondo deliverable ha ogni cambiamento e/o modifica di evidenziata in Giallo
+
+NOTA BENE
+D3: il secondo deliverable ha ogni cambiamento e/o modifica di evidenziata in Giallo
+API: le Route sono definite nel file api.php che si trova nel zip del progetto LARAVEL
