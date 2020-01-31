@@ -10,3 +10,5 @@ D3: il secondo deliverable ha ogni cambiamento e/o modifica di evidenziata in Gi
 
 D4-Finale: a questo link si trova il progetto laravel con il prootipo implementato:
   https://github.com/LeonardoSerilli98/soeProj
+  
+  ->il video che mostra il funzionamento dell'interfaccia si trova nel .mkv in questo repository
