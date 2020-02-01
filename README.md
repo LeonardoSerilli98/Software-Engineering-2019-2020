@@ -12,3 +12,4 @@ D4-Finale: a questo link si trova il progetto laravel con il prootipo implementa
   https://github.com/LeonardoSerilli98/soeProj
   
   ->il video che mostra il funzionamento dell'interfaccia si trova nel .mkv in questo repository
+  ->infine il database associato al progetto è il file.sql sempre in questo repository 
