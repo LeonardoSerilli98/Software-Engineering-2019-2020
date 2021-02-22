@@ -9,7 +9,7 @@ D3: il secondo deliverable ha ogni cambiamento e/o modifica di evidenziata in Gi
   le api sono nel file api.php nello zip del prototipo
 
 D4-Finale: a questo link si trova il progetto laravel con il prootipo implementato:
-  https://github.com/LeonardoSerilli98/soeProj
+  https://github.com/LeonardoSerilli98/SoftwareEngineering_prototipe-19-20
   
   ->il video che mostra il funzionamento dell'interfaccia si trova nel .mkv in questo repository
   ->infine il database associato al progetto è il file.sql sempre in questo repository 
